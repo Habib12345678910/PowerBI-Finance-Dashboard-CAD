@@ -1,0 +1,10 @@
+AccountID,AccountName,AccountType,AccountGroup
+100,Product Sales,Revenue,Operating Revenue
+110,Service Revenue,Revenue,Operating Revenue
+200,Cost of Goods Sold,Expense,COGS
+210,Marketing Expense,Expense,Operating Expense
+220,R&D Expense,Expense,Operating Expense
+230,General & Admin,Expense,Operating Expense
+300,Accounts Receivable,Asset,Current Assets
+400,Accounts Payable,Liability,Current Liabilities
+500,Retained Earnings,Equity,Equity
